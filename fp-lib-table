@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name quadrotor)(type KiCad)(uri ${KIPRJMOD}/quadrotor.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name quadrotor)(type Legacy)(uri /home/dpkoch/git/rosflight_matrice/quadrotor.lib)(options "")(descr ""))
+)

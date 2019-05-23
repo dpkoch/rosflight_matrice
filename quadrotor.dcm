@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FrSky_XM+
+D FrSky XM+ Receiver
+K FrSky SBUS
+$ENDCMP
+#
+$CMP LMZM23600V5SIL
+D LMZM23600 36-V, 0.5-A Step-Down DC/DC Power Module in 3.8-mm × 3-mm Package
+F http://www.ti.com/lit/ds/symlink/lmzm23600.pdf
+$ENDCMP
+#
+#End Doc Library
